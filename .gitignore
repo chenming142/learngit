@@ -1,0 +1,24 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+.idea/
+.settings/
+.DS_Store
+
+dist/
+node_modules/
+build/
+
+bin/
+*.log
+*.bak
+*.temp
+
+
