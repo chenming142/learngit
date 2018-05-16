@@ -18,3 +18,8 @@ touch readme
 # 切换回master, 进行merge
 
 # 打tag
+
+# 创建一个bug分支 issue-10,解决问题
+
+# dev分支开发
+
